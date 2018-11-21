@@ -22,16 +22,16 @@
     <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/1.jpg" width="424" height="250.5" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/2.jpg" width="358" height="441" /> </td>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/2.jpg" width="358" height="441" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/2.jpg" width="424" height="250.5" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/2.jpg" width="424" height="250.5" /> </td>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/3.jpg" width="358" height="441" /> </td>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/3.jpg" width="358" height="441" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/3.jpg" width="424" height="250.5" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/3.jpg" width="424" height="250.5" /> </td>
   </tr>     
     <tr>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/4.jpg" width="358" height="441" /> </td>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/4.jpg" width="358" height="441" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/4.jpg" width="424" height="250.5" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/4.jpg" width="424" height="250.5" /> </td>
   </tr>  
 </table>
 
