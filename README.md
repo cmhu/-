@@ -18,8 +18,8 @@
     <th>标注样例</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/1.jpg" width="358" height="441" /> </td>
-    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/1.jpg" width="358" height="441" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/1.jpg" width="848" height="501" /> </td>
+    <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/1.jpg" width="848" height="501" /> </td>
   </tr>
   <tr>
     <td> <img src="https://github.com/cmhu/HD-bayonet-pictures/blob/master/pic/2.jpg" width="358" height="441" /> </td>
